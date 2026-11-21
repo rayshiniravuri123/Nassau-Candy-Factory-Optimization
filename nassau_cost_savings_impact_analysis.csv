@@ -1,0 +1,54 @@
+Product ID,Destination Region,Recommended_Factory,Total Units,Total Sales,Total Cost,Total Gross Profit,Alternative_Distance_KM,Current Factory,Current_Distance_KM,Distance_Reduction_KM,Distance_Reduction_Percent,Distance_Impact,Business_Recommendation
+OTH-GUM-21000,Atlantic,The Other Factory,169,211.25,101.4,109.85,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-GUM-21000,Gulf,The Other Factory,120,150.0,72.0,78.0,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-GUM-21000,Pacific,The Other Factory,77,96.25,46.2,50.05,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-GUM-21000,Interior,The Other Factory,112,140.0,67.2,72.8,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-KAZ-38000,Interior,Secret Factory,39,126.75,117.0,9.75,705.6383090188377,The Other Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-KAZ-38000,Pacific,Secret Factory,105,341.25,315.0,26.25,705.6383090188377,The Other Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-KAZ-38000,Gulf,Secret Factory,78,253.5,234.0,19.5,705.6383090188377,The Other Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-KAZ-38000,Atlantic,Secret Factory,149,484.25,447.0,37.25,705.6383090188377,The Other Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+SUG-HAI-55000,Gulf,Secret Factory,2,9.0,2.0,7.0,705.6383090188377,The Other Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+SUG-EVE-47000,Gulf,The Other Factory,4,40.0,8.0,32.0,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+SUG-EVE-47000,Pacific,The Other Factory,6,60.0,12.0,48.0,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+SUG-EVE-47000,Interior,The Other Factory,3,30.0,6.0,24.0,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-LIC-15000,Interior,The Other Factory,71,1420.0,710.0,710.0,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-LIC-15000,Pacific,The Other Factory,146,2920.0,1460.0,1460.0,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-LIC-15000,Gulf,The Other Factory,37,740.0,370.0,370.0,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+OTH-LIC-15000,Atlantic,The Other Factory,139,2780.0,1390.0,1390.0,705.6383090188377,Secret Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+SUG-HAI-55000,Pacific,Secret Factory,10,45.0,10.0,35.0,705.6383090188377,The Other Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+SUG-HAI-55000,Atlantic,Secret Factory,5,22.5,5.0,17.5,705.6383090188377,The Other Factory,0.0,-705.6383090188377,,Distance Increased,Review current factory allocation
+SUG-FUN-75000,Atlantic,Secret Factory,4,6.0,3.6,2.4,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+OTH-FIZ-56000,Atlantic,Secret Factory,9,33.75,13.5,20.25,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+OTH-FIZ-56000,Gulf,Secret Factory,4,15.0,6.0,9.0,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+OTH-FIZ-56000,Pacific,Secret Factory,3,11.25,4.5,6.75,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+OTH-FIZ-56000,Interior,Secret Factory,5,18.75,7.5,11.25,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-LAF-25000,Pacific,Secret Factory,1,1.99,0.75,1.24,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-FUN-75000,Gulf,Secret Factory,1,1.5,0.9,0.6,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-SWE-91000,Pacific,Secret Factory,4,6.0,3.2,2.8,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-NER-92000,Atlantic,Secret Factory,10,15.0,8.0,7.0,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-SWE-91000,Interior,Secret Factory,13,19.5,10.4,9.1,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-SWE-91000,Atlantic,Secret Factory,24,36.0,19.2,16.8,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-LAF-25000,Gulf,Secret Factory,11,21.89,8.25,13.64,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-LAF-25000,Interior,Secret Factory,1,1.99,0.75,1.24,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-LAF-25000,Atlantic,Secret Factory,14,27.86,10.5,17.36,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+SUG-FUN-75000,Interior,Secret Factory,3,4.5,2.7,1.8,863.7232206753317,Sugar Shack,0.0,-863.7232206753317,,Distance Increased,Review current factory allocation
+CHO-MIL-31000,Interior,The Other Factory,1869,6074.25,2130.66,3943.59,889.0709240748232,Wicked Choccy's,0.0,-889.0709240748232,,Distance Increased,Review current factory allocation
+CHO-TRI-54000,Interior,The Other Factory,1692,6345.0,2199.6,4145.4,889.0709240748232,Wicked Choccy's,0.0,-889.0709240748232,,Distance Increased,Review current factory allocation
+CHO-MIL-31000,Pacific,The Other Factory,2706,8794.5,3084.84,5709.66,889.0709240748232,Wicked Choccy's,0.0,-889.0709240748232,,Distance Increased,Review current factory allocation
+CHO-MIL-31000,Gulf,The Other Factory,1356,4407.0,1545.84,2861.16,889.0709240748232,Wicked Choccy's,0.0,-889.0709240748232,,Distance Increased,Review current factory allocation
+CHO-MIL-31000,Atlantic,The Other Factory,2336,7592.0,2663.04,4928.96,889.0709240748232,Wicked Choccy's,0.0,-889.0709240748232,,Distance Increased,Review current factory allocation
+CHO-TRI-54000,Gulf,The Other Factory,1223,4586.25,1589.9,2996.35,889.0709240748232,Wicked Choccy's,0.0,-889.0709240748232,,Distance Increased,Review current factory allocation
+CHO-TRI-54000,Pacific,The Other Factory,2595,9731.25,3373.5,6357.75,889.0709240748232,Wicked Choccy's,0.0,-889.0709240748232,,Distance Increased,Review current factory allocation
+CHO-TRI-54000,Atlantic,The Other Factory,2086,7822.5,2711.8,5110.7,889.0709240748232,Wicked Choccy's,0.0,-889.0709240748232,,Distance Increased,Review current factory allocation
+CHO-SCR-58000,Atlantic,The Other Factory,2349,8456.4,2583.9,5872.5,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-SCR-58000,Gulf,The Other Factory,1203,4330.8,1323.3,3007.5,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-SCR-58000,Pacific,The Other Factory,2468,8884.8,2714.8,6170.0,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-SCR-58000,Interior,The Other Factory,1723,6202.8,1895.3,4307.5,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-FUD-51000,Atlantic,The Other Factory,2008,7228.8,2409.6,4819.2,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-NUT-13000,Interior,The Other Factory,1694,5912.06,1694.0,4218.06,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-FUD-51000,Gulf,The Other Factory,1082,3895.2000000000003,1298.4,2596.8,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-FUD-51000,Pacific,The Other Factory,2229,8024.400000000001,2674.8,5349.6,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-FUD-51000,Interior,The Other Factory,1595,5742.0,1914.0,3828.0,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-NUT-13000,Gulf,The Other Factory,1088,3797.1200000000003,1088.0,2709.12,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-NUT-13000,Pacific,The Other Factory,2116,7384.84,2116.0,5268.84,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
+CHO-NUT-13000,Atlantic,The Other Factory,1857,6480.93,1857.0,4623.93,2020.5748956325356,Lot's O' Nuts,0.0,-2020.5748956325356,,Distance Increased,Review current factory allocation
